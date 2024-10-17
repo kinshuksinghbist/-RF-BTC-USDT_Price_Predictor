@@ -34,11 +34,7 @@ The goal is to predict market movements based on **Random Forest classification*
 |-- RF_AlgoTrader.ipynb   # Jupyter notebook with full implementation
 |-- models/
 |   `-- RF_BTC_1D.joblib  # Pre-trained Random Forest model
-|-- data/
-|   `-- btc_data.csv      # Historical market data used for backtesting
-|-- results/
-|   `-- pyfolio_report.html  # Pyfolio performance analysis report
-|-- Dockerfile            # Containerization setup (optional)
+|-- results.png
 ```
 
 ## Dependencies
